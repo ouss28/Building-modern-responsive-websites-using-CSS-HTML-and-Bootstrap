@@ -1,1 +1,1 @@
-# build-website-tindog-using-css-bootstrap
+# Building modern responsive websites using CSS, HTML, and Bootstrap.
